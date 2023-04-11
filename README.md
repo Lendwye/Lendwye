@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lendwye
-- 👀 I’m interested in web-programming
-- 🌱 I’m currently learning react
+- 👀 I’m interested in web-programming and ml
+- 🌱 I’m currently learning laravel and java
 - 💞️ I’m looking to collaborate on some cool project
 - 📫 How to reach me lendwye@gmail.com
 
